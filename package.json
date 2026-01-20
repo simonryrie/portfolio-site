@@ -11,10 +11,14 @@
     "build-storybook": "storybook build"
   },
   "dependencies": {
+    "@sanity/image-url": "^2.0.3",
     "gsap": "^3.14.2",
     "next": "16.1.2",
+    "next-sanity": "^12.0.14",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "sanity-image": "^1.0.0",
+    "swiper": "^12.0.3"
   },
   "devDependencies": {
     "@storybook/nextjs-vite": "^10.1.11",
