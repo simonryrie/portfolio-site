@@ -14,9 +14,9 @@ export function Typography({
   children,
 }: TypographyProps) {
   const variantClasses = {
-    heading1: "text-5xl font-bold font-sans",
-    heading2: "text-3xl font-semibold",
-    heading3: "text-xl font-semibold",
+    heading1: "text-8xl font-bold font-sans",
+    heading2: "text-5xl font-semibold",
+    heading3: "text-2xl font-semibold",
     body: "text-base leading-relaxed",
     caption: "text-sm",
   };
